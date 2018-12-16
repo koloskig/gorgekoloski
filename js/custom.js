@@ -242,9 +242,9 @@ jQuery(document).ready(function(){
 	// });
 
 	// Refresh Map
-	$content.bind('easytabs:after', function(evt,tab,panel) {
-		$map.gmap('refresh');
-  	});
+	// $content.bind('easytabs:after', function(evt,tab,panel) {
+	// 	$map.gmap('refresh');
+ //  	});
 
 
 
